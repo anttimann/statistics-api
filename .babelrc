@@ -1,0 +1,8 @@
+{
+  "plugins": [
+  "transform-es2015-modules-commonjs",
+  [ "transform-runtime", { "polyfill": false } ],
+  "transform-async-to-generator",
+  "transform-object-rest-spread"
+  ]
+}
